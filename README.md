@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**CJLucido/CJLucido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi, I'm Carlo Lucido! </h1>
+<p><em>Software Developler  </em></p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on finding a job in the tech industry!
+- 🌱 I’m currently learning how to merge web applications with microcontrollers!
+- 👯 I’m looking to collaborate on IoT, robotics, geospatial, or 3d applications.
+- 🤔 I’m looking for help with any of the above topics!
+- 💬 Ask me about past archaeological work in the Americas, emergency management of historical structures, local foragable foods from the Asheville area.
+- 📫 How to reach me: c.jose.lucido@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const cj = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Lua, SQL],
+  tools: [React, Redux, Node, Pico-8, AntD, Jest, D3, Apollo, Express, Knex, MySQL],
+}
+```
+
+
+---
+
+⭐️ Readme modeled after [@Thaiane](https://github.com/Thaiane)
