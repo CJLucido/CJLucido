@@ -2,8 +2,8 @@
 <h1> Hi, I'm Carlo Lucido! </h1>
 <p><em>Software Developler  </em></p>
 
-- 🔭 I’m currently working on finding a job in the tech industry!
-- 🌱 I’m currently learning how to merge web applications with microcontrollers!
+- 🔭 I’m currently working on finding a job in the tech industry while assisteing a derecho response effort!
+- 🌱 I’m currently learning how to apply python scripts to GIS and datascience!
 - 👯 I’m looking to collaborate on IoT, robotics, geospatial, or 3d applications.
 - 🤔 I’m looking for help with any of the above topics!
 - 💬 Ask me about past archaeological work in the Americas, emergency management of historical structures, local foragable foods from the Asheville area.
