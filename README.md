@@ -2,7 +2,7 @@
 <h1> Hi, I'm Carlo Lucido! </h1>
 <p><em>Software Developler  </em></p>
 
-- 🔭 I’m currently working on finding a job in the tech industry while assisting a derecho response effort!
+- 🔭 I’m currently working on a hurricane response effort!
 - 🌱 I’m currently learning how to apply python scripts to GIS and datascience!
 - 👯 I’m looking to collaborate on IoT, robotics, geospatial, or 3d applications.
 - 🤔 I’m looking for help with any of the above topics!
