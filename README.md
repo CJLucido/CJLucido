@@ -2,10 +2,8 @@
 <h1> Hi, I'm Carlo Lucido! </h1>
 <p><em>Software Developler  </em></p>
 
-- 🔭 I’m currently working on a hurricane response effort!
-- 🌱 I’m currently learning how to apply python scripts to GIS!
-- 👯 I’m looking to collaborate on IoT, robotics, geospatial, datascience, or 3d applications.
-- 💬 Ask me about past archaeological work in the Americas, emergency management of historical structures, local foragable foods from the Asheville area.
+- 🌱 I’m currently developing a tissue culture app, a React and firebase-SOIL application using Ionic.
+- 💬 Ask me about past archaeological work in the Americas, emergency management of historical structures, or local foragable foods from the Asheville area.
 - 📫 How to reach me: c.jose.lucido@gmail.com
 
 ```javascript
@@ -15,7 +13,7 @@ const cj = {
   tools: [React, Redux, Vue, Node, Pico-8, AntD, Jest, D3, Apollo, Express, Knex, MySQL],
 }
 ```
-
+here's a crappy game I made a long time ago! https://cjlucido.netlify.app/saturni
 
 ---
 
